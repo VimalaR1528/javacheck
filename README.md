@@ -1,1 +1,1 @@
-# javacheck
+# core project 
